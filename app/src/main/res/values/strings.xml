@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GoogleFunZone</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--Name of application -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="signUp">Signup</string>
+    <string name="fullName">Fulll Name</string>
+    <string name="email">Enter Email</string>
+    <string name="mobileNumber">Phone Number</string>
+    <string name="location">Address</string>
+    <string name="passowrd">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="already_user">Already Have Account?</string>
+
+
+    <!--values of setting xml -->
+    <string name="setting_email_old">Enter Recent Email</string>
+    <string name="setting_email_new">Enter New Email</string>
+    <string name="setting_password_old">Enter Recent Password</string>
+    <string name="setting_password_new">Enter New Password</string>
+
+</resources>
